@@ -7,7 +7,7 @@ body {
     height: 100vh;
     /* background-color: rgb(72, 87, 87); */
 }
-nav{
+header{
     display: flex;
     border: 1px solid black;
 }
